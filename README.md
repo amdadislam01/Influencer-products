@@ -20,7 +20,7 @@ A stylish and responsive **Influencer Product Landing Page** built using **HTML*
 ## 🛠️ Technologies Used
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,tailwindcss" alt="Tech Stack" width="100"/>
+  <img src="https://skillicons.dev/icons?i=html,tailwindcss" alt="Tech Stack" width="320"/>
 </p>
 
 ---
