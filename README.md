@@ -27,6 +27,6 @@ A stylish and responsive **Influencer Product Landing Page** built using **HTML*
 
 ## 📸 Screenshot
 
-<img src="https://i.postimg.cc/9MpdLgKy/influencer-products-screenshot.png" alt="Influencer Products Screenshot" width="1000"/>
+<img src="https://ik.imagekit.io/yqnbhdlo4/Img/product?updatedAt=1754301061942" alt="Influencer Products Screenshot" width="1000"/>
 
 
