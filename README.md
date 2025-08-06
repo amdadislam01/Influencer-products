@@ -1,4 +1,4 @@
-# 🛍️ Influencer Product Landing Pag
+# 🛍️ Influencer Product Landing Page
 
 A stylish and responsive **Influencer Product Landing Page** built using **HTML** and **Tailwind CSS**. This project showcases products promoted by influencers in a clean and attractive layout.
 
